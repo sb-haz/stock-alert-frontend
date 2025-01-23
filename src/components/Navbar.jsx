@@ -16,6 +16,12 @@ export const Navbar = () => {
                     {/* Navigation links */}
                     <div className="flex items-center space-x-6">
                         <Link 
+                            to="/search" 
+                            className="text-sm font-medium text-gray-300 hover:text-white transition-colors"
+                        >
+                            Search
+                        </Link>
+                        <Link 
                             to="/alerts" 
                             className="text-sm font-medium text-gray-300 hover:text-white transition-colors"
                         >

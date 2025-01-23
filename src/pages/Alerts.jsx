@@ -73,7 +73,7 @@ export const Alerts = () => {
                 {/* Header section */}
                 <div className="text-center space-y-4">
                     <h1 className="text-4xl font-bold tracking-tight bg-gradient-to-r from-blue-500 to-teal-400 text-transparent bg-clip-text">
-                        Stock Alerts
+                        Alerts
                     </h1>
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto">
                         Set up and manage your personalized stock price alerts
